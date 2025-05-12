@@ -1,5 +1,8 @@
 In this game I used python turtle library, pandas library and csv file methods.
 
+First of all, you enter a city name, the name of that city is written on the map
+and the name of that city is deleted from the list of cities, and thus the game ends when you know the names of all the cities.
+
 
 
 I USED TURKEY MAP FOR THIS PROJECT:
